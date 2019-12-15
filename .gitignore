@@ -1,0 +1,6 @@
+*~
+__pycache__
+help
+*.json
+tenv.py #settings
+
